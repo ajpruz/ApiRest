@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Woman#2",
+    "specie": "Woman",
+    "thumbnail": "http://localhost:8080/img1644322393614-m101 3.png",
+    "id": 2
+  },
+  {
+    "name": "Skull",
+    "specie": "Skeleton",
+    "thumbnail": "http://localhost:8080/img1644322420363-m101 skull.png",
+    "id": 3
+  },
+  {
+    "name": "Skull",
+    "specie": "Skeleton",
+    "thumbnail": "http://localhost:8080/img1644418490595-m101 skull.png",
+    "id": 4
+  }
+]
